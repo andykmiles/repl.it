@@ -1,2 +1,2 @@
-run = "echo type python learn.py <enter> to run, python <enter> for shell"
+run = "echo 'type python learn.py <enter> to run, python <enter> for shell'"
 language = "python"

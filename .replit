@@ -1,0 +1,2 @@
+run = "uname -a"
+#language = "<repl language>" # optional

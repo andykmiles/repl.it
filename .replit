@@ -1,2 +1,2 @@
-run = "uname -a"
+run = "echo 'type python learn.py <enter> to run, python <enter> for shell"
 language = "python"
